@@ -1,2 +1,2 @@
 # react-router
-basic implementation of react router
+basic implementation of react router.
